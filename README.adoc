@@ -1,0 +1,15 @@
+= LibrePGP branding materials
+
+== Purpose
+
+This repository provides branding assets for the LibrePGP project.
+
+Items contained include:
+
+* Logos
+
+
+== License
+
+Copyright, LibrePGP Study Group members.
+
