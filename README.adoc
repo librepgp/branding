@@ -9,7 +9,42 @@ Items contained include:
 * Logos
 
 
+== Logo
+
+The LibrePGP logo is a padlock with stylized fingerprint lines on top, with the
+padlock keyhole stylized as a key.
+
+The logo means to convey the idea of security and encryption, with the
+fingerprint lines representing the unique identity of the key.
+
+The logo is available in two versions:
+
+* A full-color version, with the background in blue, padlock made up of
+gradient-colored fingerprint lines.
+
+* A monochrome version, with the padlock and fingerprint lines in white.
+
+.Logo images
+|===
+| Full-color | Monochrome
+
+| image:logo/logo-color.svg[]
+| image:logo/logo-bw.svg[]
+
+|===
+
+.Button/banner images
+|===
+| Full-color | Monochrome
+
+| image:logo/button-color.svg[]
+| image:logo/button-bw.svg[]
+
+|===
+
 == License
 
-Copyright, LibrePGP Study Group members.
+Usage of this logo is free.
+
+Copyright the LibrePGP Study Group. All rights reserved.
 
